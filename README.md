@@ -2,7 +2,7 @@
 Tasks Using Tailwind 
 
 # Tailwind Task(1) 
-# Live Demo : https://ahmed-wael29.github.io/task-1-tailwind-/
+# Live Demo : https://ahmed-wael29.github.io/task-1-tailwind/
 # Repo Link : https://github.com/Ahmed-Wael29/task-1-tailwind-
 
 
