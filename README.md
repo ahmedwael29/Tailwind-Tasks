@@ -25,5 +25,5 @@ Tasks Using Tailwind
 
 
 # Tailwind Task(5) 
-# Live Demo :
-# Repo Link :
+# Live Demo : https://ahmed-wael29.github.io/task-5-tailwind-/
+# Repo Link : https://github.com/Ahmed-Wael29/task-5-tailwind-
